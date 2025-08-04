@@ -2,8 +2,6 @@
 
 A Streamlit-powered dashboard for real-time visualization of network events and anomalies detected by the AI Network Health Analyzer backend.
 
-![Streamlit Screenshot](https://via.placeholder.com/900x300?text=Dashboard+Preview)
-
 ---
 
 ## 🔍 Overview
