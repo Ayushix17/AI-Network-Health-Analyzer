@@ -21,12 +21,3 @@ This dashboard interacts with a Flask-based AI log analyzer that processes netwo
 - **Database**: SQLite
 - **Monitoring**: Prometheus + InfluxDB (optional)
 
----
-
-## 🚀 Quick Start
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/ai-network-health-analyzer.git
-cd ai-network-health-analyzer
